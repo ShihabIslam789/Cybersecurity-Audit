@@ -1,4 +1,4 @@
-# Google CyberSecurity COurse
+# Google CyberSecurity Course
 
 Google gathered a team of  experienced analysts and engineers who have protected data from many
 hacker groups. they put a good amount of their experience and education in this course to get all users of the course to be job ready for a position in cybersecuirty. This is a 8 sectioned course going over all the tools used by them on a daily occurence.
