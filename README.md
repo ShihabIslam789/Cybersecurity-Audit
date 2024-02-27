@@ -23,7 +23,7 @@ The course was divided into 8 sections:
 
 8. Put it to Work: Prepare for Cybersecurity Jobs
 
-There are certificates in the folder of the git repo to prove I have done each section.
+There are certificates in the folder of the git repo (Proof-of-completion) to prove I have done each section.
 each piece of work is my report on an example incident case that needed documenting and
 proper posture to minimize damage.
 
